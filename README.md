@@ -1,4 +1,5 @@
-https://pattern-of-life.herokuapp.com
+# Coeus 
 
-iframe:
-<iframe width="100%" height="100%" frameborder="0" src="http://cnn.com" />
+Contact: team@coeus.technology
+
+[Patterns of Life demo](https://pattern-of-life.herokuapp.com)
